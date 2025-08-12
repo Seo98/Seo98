@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnfl111)](https://solved.ac/dnfl111/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo98)](https://github.com/Seo98/github-readme-stats)
 <!--
 **Seo98/Seo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
