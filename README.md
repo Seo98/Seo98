@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Dev_S'%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-
-## 해위 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEO'%20render&animation=twinkling&fontSize=90)
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
