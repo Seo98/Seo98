@@ -15,7 +15,7 @@
 ---
 
 ### 💻 GitHub Stats
-![Seo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo98&hide=contribs&show_icons=true&theme=tokyonight&card_width=400)
+![Seo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo98&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo98&layout=compact&theme=tokyonight)
 
 ---
