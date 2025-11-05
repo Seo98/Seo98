@@ -10,12 +10,12 @@
 ### 🧩 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnfl111)](https://solved.ac/profile/dnfl111)
 
-알고리즘 풀시간에 내게임을 만들겠다 ㅇㅇ
+알고리즘 풀시간에 내게임을 만들겠다!
 (풀다가 심연에빠질뻔)
 ---
 
 ### 💻 GitHub Stats
-![Seo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo98&show_icons=true&theme=tokyonight&count_private=true)
+![Seo98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo98&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo98&layout=compact&theme=tokyonight)
 
 ---
