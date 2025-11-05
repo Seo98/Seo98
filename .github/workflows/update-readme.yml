@@ -1,4 +1,17 @@
+name: Update GitHub Stats
+
 on:
   schedule:
-    - cron: "0 15 * * *" 
-  workflow_dispatch:     
+    # 매일 새벽 3시 (UTC 15:00은 한국시간 00:00)
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh Stats Cache
+        env:
+          PAT_1: ${{ secrets.PAT_1 }}
+        run: |
+          curl -H "Authorization: token $PAT_1" -s "https://github-readme-stats.vercel.app/api?username=Seo98&count_private=true" > /dev/null
