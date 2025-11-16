@@ -10,8 +10,6 @@
 ### 🧩 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnfl111)](https://solved.ac/profile/dnfl111)
 
-알고리즘 풀시간에 내게임을 만들겠다!
-(풀다가 심연에빠질뻔)
 ---
 
 ### 💻 GitHub Stats
