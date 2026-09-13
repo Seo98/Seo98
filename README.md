@@ -29,8 +29,10 @@
 ---
 
 ### 🌱 About Me
-- 유니티 잡부
-- 제꿈은 어셈블리어로 GTA 만들기입니다. 
+- ~Ing
+- llm AI based Fantasy RPG Simulation
+- Luck Defense
+- G_ 
 ---
 
 ### 🗨️ Contact & Hits
